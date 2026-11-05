@@ -129,16 +129,20 @@ I'm especially interested in the boundaries between disciplines: how an AI model
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matan-Vinkler&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matan-Vinkler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<a href="https://github.com/Matan-Vinkler">
+  <img src="https://streak-stats.demolab.com?user=Matan-Vinkler&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Matan-Vinkler&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matan-Vinkler&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+<a href="https://github.com/Matan-Vinkler?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-76B900?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories" />
+</a>
 
 </div>
 
