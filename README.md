@@ -52,7 +52,7 @@ ROS 2, localization, SLAM, navigation, motion planning, simulation, and integrat
 - **Physical AI and autonomous robotics:** connecting perception, state estimation, planning, and control in real-world systems.
 - **Edge AI deployment:** optimizing vision and learning models for resource-constrained compute, including NVIDIA Jetson and Hailo.
 - **Systems architecture:** designing reliable interfaces between embedded firmware, Linux, accelerators, networking, and robotic software.
-- **Deep-tech entrepreneurship:** prototyping tools and infrastructure for robotics development, including **SeqTorq**, an AI-assisted robotics prototyping platform in development.
+- **Deep-tech entrepreneurship:** prototyping tools and infrastructure for robotics development.
 
 ---
 
